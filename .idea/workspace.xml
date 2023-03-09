@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c9dc769-1090-48a5-b40c-9049049f5291" name="Changes" comment="" />
+    <list default="true" id="9c9dc769-1090-48a5-b40c-9049049f5291" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figury/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figury/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figury/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figury/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figury/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figury/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfejs/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfejs/Figure.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Mm6NZCnaQx9wlXK3IG92twXqQu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,7 +50,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678360371975</updated>
+      <workItem from="1678360373690" duration="2263000" />
+      <workItem from="1678362930382" duration="11000" />
+      <workItem from="1678363073754" duration="24000" />
+      <workItem from="1678363134839" duration="25000" />
+      <workItem from="1678363175620" duration="58000" />
+      <workItem from="1678363249075" duration="805000" />
+      <workItem from="1678364077520" duration="82000" />
+      <workItem from="1678364194556" duration="100000" />
+      <workItem from="1678364309380" duration="742000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
